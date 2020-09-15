@@ -21,8 +21,8 @@ for (int i=1;i < 3;i++)
             s[j-1]=temp;
     }
     }
-  ```
-  ![avatar](https ://s1. ax1x. com/ 2020/09/13/wOvEOs . png)
+  
+```
   ##  测试用例
 + 第一: 0,1,2,3,4,5,6,7,8,9
 
